@@ -1,4 +1,6 @@
 <!-- markdownlint-disable-next-line -->
+
+
 <div align="center">
 
   <!-- markdownlint-disable-next-line -->
@@ -20,7 +22,7 @@
 
 ## Features
 
-- Dark Theme
+- Dark Theme--
 - Localized UI language
 - Pinned Posts on Home Page
 - Hierarchical Categories
