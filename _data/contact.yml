@@ -1,10 +1,14 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+#- type: github
+#  icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
+
+- type: Facebook
+  icon: "fa-brands fa-square-facebook"
+  url: "https://www.facebook.com/Marzouk01272873007" # Fill with your stackoverflow homepage
 
 - type: email
   icon: "fas fa-envelope"
