@@ -3,8 +3,6 @@ layout: post
 title: "معلومات عامة عن الموقع"
 date:   2024-04-27T00:00:01+03:00
 author: "mahmoud"
-category: "نصائح عن بناء المصانع"
-tag: "نصائح عن بناء المصانع"
 pin: true
 ---
 
