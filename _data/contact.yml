@@ -6,6 +6,10 @@
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
 
+- type: Website
+  icon: "fa-brands fa-chrome"
+  url: "https://egybid.com"
+
 - type: Facebook
   icon: "fa-brands fa-square-facebook"
   url: "https://www.facebook.com/Marzouk01272873007" # Fill with your stackoverflow homepage
